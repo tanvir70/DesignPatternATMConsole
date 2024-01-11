@@ -55,6 +55,3 @@ Transaction factories implement a Factory Method to create specific transaction 
 The State pattern represents various ATM states and controls operations based on the current state.
 
 
-
-   ```bash
-   git clone https://github.com/yourusername/atm-simulation.git
